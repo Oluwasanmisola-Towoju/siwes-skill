@@ -1,4 +1,5 @@
 # SIWES Complete Package Generator — Skill Bundle
+<img width="1031" height="740" alt="image" src="https://github.com/user-attachments/assets/fa9cecb1-db99-43ac-a865-dd36535e271f" />
 
 **Version:** 2.0.0
 **For:** 200L Computer Engineering students, Nigerian universities
